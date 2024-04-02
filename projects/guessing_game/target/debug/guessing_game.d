@@ -1,1 +1,1 @@
-/home/cc/rust/rust/projects/guessing_game/target/debug/guessing_game: /home/cc/rust/rust/projects/guessing_game/src/main.rs
+/home/cc/rust/projects/guessing_game/target/debug/guessing_game: /home/cc/rust/projects/guessing_game/src/main.rs
